@@ -1,2 +1,3 @@
-for i in range(1,5):
-    print('hello')
+print('yo yo yo')
+
+print("hello")
